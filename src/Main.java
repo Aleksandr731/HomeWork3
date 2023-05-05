@@ -93,6 +93,7 @@ public class Main {
         System.out.println(inKilograms + " килограмм");
     }
 
+
     public static void task7() {
         System.out.println("Задача 7");
         short a = 250;
