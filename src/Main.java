@@ -47,6 +47,7 @@ public class Main {
         System.out.println("На каждого ученика рассчитано " + calculatedPaper + " листов бумаги");
     }
 
+
     public static void task4() {
         System.out.println("Задача 4");
         byte productivity = 16 / 2;
